@@ -1,1 +1,1 @@
-# SmartCart Clustering System
+# SmartCart E-commerce Customer Clustering System
